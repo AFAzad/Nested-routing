@@ -12,6 +12,29 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.navbar {
+  text-align: right;
+  background-color: #57595c;
+
+}
+.navbar li {
+  display: inline-block;
+  padding: 10px;
+  margin: 30px;
+}
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  text-size-adjust: 3px;
+  text-decoration-thickness: 6px;
+
+
+}
+.navbar-link:hover{
+  cursor: ;
+  color: aqua;
+}
+
 
 .App-header {
   background-color: #282c34;
