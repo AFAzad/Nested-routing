@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nested-routing/static/css/main.c2497410.css",
+    "main.js": "/Nested-routing/static/js/main.050fed46.js",
+    "static/js/787.eb26bab9.chunk.js": "/Nested-routing/static/js/787.eb26bab9.chunk.js",
+    "index.html": "/Nested-routing/index.html",
+    "main.c2497410.css.map": "/Nested-routing/static/css/main.c2497410.css.map",
+    "main.050fed46.js.map": "/Nested-routing/static/js/main.050fed46.js.map",
+    "787.eb26bab9.chunk.js.map": "/Nested-routing/static/js/787.eb26bab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2497410.css",
+    "static/js/main.050fed46.js"
+  ]
+}
