@@ -9,7 +9,8 @@ import Blog from "./components/Blog";
 import Company from "./components/Company";
 import Business from "./components/Business";
 import Other from "./components/Other";
-
+import Login from "./components/Login";
+import Protected from "./components/Protected";
 function App() {
   return (
     <div className="App">
@@ -17,6 +18,7 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>}></Route>
+        <Route path="/login" element={<Login/>}></Route>
         <Route path="/about" element={<About/>}></Route>
         <Route path="/contact/" element={<Contact/>}>
           <Route path="company" element={<Company/>} />

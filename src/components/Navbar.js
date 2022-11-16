@@ -19,6 +19,12 @@ function Navbar(){
                 style={({isActive})=>{return{color: isActive?'lightgreen':''}}}
                 >Blog</NavLink>
             </li>
+        
+            <li><NavLink to="/login" className="navbar-link"
+                style={({isActive})=>{return{color: isActive?'lightgreen':''}}}
+                >Login</NavLink>
+            </li>
+            
             </ul>
         </div>
     )
